@@ -26,3 +26,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-08-19
 - Verified API endpoint response schema
 - Fixed off-by-one error in loop
+
+## 2026-09-16
+- Resolved deprecation warnings
+- Added inline documentation for core functions
+- Pinned dependency versions for reproducibility
