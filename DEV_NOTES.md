@@ -31,3 +31,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Added inline documentation for core functions
 - Pinned dependency versions for reproducibility
+
+## 2026-09-16
+- Refactored module structure for clarity
