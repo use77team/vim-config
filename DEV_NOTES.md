@@ -39,3 +39,7 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Wrote notes on upcoming feature design
 - Reviewed codebase, identified areas for improvement
+
+## 2026-11-04
+- Resolved TODO items from previous session
+- Reviewed security headers configuration
