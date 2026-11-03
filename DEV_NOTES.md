@@ -34,3 +34,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-16
 - Refactored module structure for clarity
+
+## 2026-11-04
+- Tidied up project structure
+- Wrote notes on upcoming feature design
+- Reviewed codebase, identified areas for improvement
